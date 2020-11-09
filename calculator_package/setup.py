@@ -11,7 +11,7 @@ setuptools.setup(
     description="A calculator package",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/seungtaemoon/my_projects/calculator_package/calculator",
+    url="https://github.com/seungtaemoon/my_projects/calculator_package/",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
