@@ -1,3 +1,3 @@
-### This is my project folder for CodeStates Data Science Boot Camp
+# CodeStates Data Science Boot Camp Project Folder
  
 calculatorpackage - a script to perform a certain calculation 
