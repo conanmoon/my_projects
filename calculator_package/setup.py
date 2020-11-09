@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
  
 setuptools.setup(
     name="calculatorpkgseungtaemoon", # pip 으로 설치한 패키지 이름입니다
-    version="0.0.3",
+    version="0.0.4",
     author="seungtaemoon",
     author_email="conanmoon@gmail.com",
     description="A calculator package",
