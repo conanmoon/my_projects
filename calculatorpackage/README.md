@@ -3,6 +3,8 @@ A script to perform some simple calculations that takes following inputs
 * num1: an integer, float, or even string depending on operations
 * num2: an integer, float, or even string depending on operations
 * choice: a type of operation to perform with two inputs
+
+list of operations for "choice" input:
 > "sum": sum of two numbers
 
 > "diff": num1 - num2
