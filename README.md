@@ -1,9 +1,7 @@
-# my_projects
-my_projects
+# Example Package
+ 
+This is a simple example package. You can use
+[Github-flavored Markdown](https://guides.github.com/features/mastering-markdown/)
+to write your content.
 
-I am editing the README file.
-Adding some more details about the project description.
-
-This is my repo for CodeStates assignment.
-> Week 1: Calculator - calculator.py
 
