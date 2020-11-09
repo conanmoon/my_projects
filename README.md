@@ -1,7 +1,3 @@
-# Example Package
+# CodeStates Data Science Boot Camp Project Folder
  
-This is a simple example package. You can use
-[Github-flavored Markdown](https://guides.github.com/features/mastering-markdown/)
-to write your content.
-
-
+calculatorpackage - a script to perform a certain calculation 
