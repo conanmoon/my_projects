@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
  
 setuptools.setup(
-    name="calculator_mst", # pip 으로 설치한 패키지 이름입니다
+    name="calculator_seungtaemoon", # pip 으로 설치한 패키지 이름입니다
     version="0.0.2",
     author="seungtaemoon",
     author_email="conanmoon@gmail.com",
