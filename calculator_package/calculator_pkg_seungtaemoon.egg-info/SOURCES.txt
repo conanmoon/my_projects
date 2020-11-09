@@ -1,6 +1,0 @@
-README.md
-setup.py
-calculator_pkg_seungtaemoon.egg-info/PKG-INFO
-calculator_pkg_seungtaemoon.egg-info/SOURCES.txt
-calculator_pkg_seungtaemoon.egg-info/dependency_links.txt
-calculator_pkg_seungtaemoon.egg-info/top_level.txt
